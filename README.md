@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejasri14
+- 👋 Hi, I’m Tejasri Kurapati
 - 👀 I’m interested in applications of Machine Learning in finance, neuroscience, economics and tech
 - 🌱 I’m currently a masters student at Columbia University
 - 📫 How to reach me tk2928@columbia.edu
